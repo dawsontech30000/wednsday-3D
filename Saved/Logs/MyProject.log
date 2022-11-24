@@ -709,3 +709,384 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.24-19.49.40:387][  0]LightingResults: New page: Lighting Build
 [2022.11.24-19.49.40:391][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
 [2022.11.24-19.49.40:394][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.24-19.49.50:013][  0]LogTexture: Display: Building textures: star_004 (BGRA8, 64X64)
+[2022.11.24-19.49.50:013][  0]LogTexture: Display: Building textures: star_003 (BGRA8, 64X64)
+[2022.11.24-19.49.50:013][  0]LogTexture: Display: Building textures: star_002 (BGRA8, 64X64)
+[2022.11.24-19.49.50:013][  0]LogTexture: Display: Building textures: sign_uv_copy (OODLE_AutoDXT, 1024X1024)
+[2022.11.24-19.49.50:013][  0]LogTexture: Display: Building textures: Banner_UV (OODLE_AutoDXT, 1024X1024)
+[2022.11.24-19.49.50:013][  0]LogTexture: Display: Building textures: grass (OODLE_AutoDXT, 1024X1024)
+[2022.11.24-19.49.50:013][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.24-19.49.50:013][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.24-19.49.50:013][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.24-19.49.50:014][  0]LogTexture: Display: Building textures: T_Pole_Diffuse (OODLE_AutoDXT, 1024X1024)
+[2022.11.24-19.49.50:014][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.24-19.49.50:014][  0]LogTexture: Display: Building textures: T_Link_Diffuse (OODLE_AutoDXT, 512X256)
+[2022.11.24-19.49.50:014][  0]LogTexture: Display: Building textures: T_Link_brk_Diffuse (OODLE_AutoDXT, 512X256)
+[2022.11.24-19.49.50:014][  0]LogTexture: Display: Building textures: T_Link_brk_Normal (OODLE_BC5, 512X256)
+[2022.11.24-19.49.50:014][  0]LogTexture: Display: Building textures: T_Link_Normal (OODLE_BC5, 512X256)
+[2022.11.24-19.49.50:014][  0]LogTexture: Display: Building textures: Rock (OODLE_AutoDXT, 1024X1024)
+[2022.11.24-19.49.50:014][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.24-19.49.50:014][  0]LogTexture: Display: Building textures: T_ctd_h (OODLE_AutoDXT, 1024X1024)
+[2022.11.24-19.49.50:014][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.24-19.49.50:014][  0]LogStaticMesh: Building static mesh SM_grass...
+[2022.11.24-19.49.50:176][  0]LogTexture: Display: Building textures: NormalMap (OODLE_BC5, 1024X1024)
+[2022.11.24-19.49.50:176][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.24-19.49.50:176][  0]LogStaticMesh: Built static mesh [0.16s] /Game/ThirdPersonBP/gras/SM_grass.SM_grass
+[2022.11.24-19.49.50:307][  0]LogStaticMesh: Building static mesh sm_airship2...
+[2022.11.24-19.49.50:368][  0]LogStaticMesh: Built static mesh [0.06s] /Game/ThirdPersonBP/airship/sm_airship2.sm_airship2
+[2022.11.24-19.49.50:544][  0]LogStaticMesh: Building static mesh sm_rock...
+[2022.11.24-19.49.50:554][  0]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/rock/sm_rock.sm_rock
+[2022.11.24-19.49.50:681][  0]LogMaterial: Display: Missing cached shadermap for M_Sign in PCD3D_SM5, Default, SM5 (DDC key hash: 5BEF3FE7E3F168320C2C3D6FC9A1DAAA1D5745B4), compiling. 
+[2022.11.24-19.49.50:768][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.24-19.49.50:771][  0]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: A46AF3213FAB7ABA20C816E5C0EE26F698D47C4E), compiling. 
+[2022.11.24-19.49.50:917][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2022.11.24-19.49.50:917][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.11.24-19.49.50:917][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2022.11.24-19.49.50:917][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2022.11.24-19.49.50:917][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.11.24-19.49.50:918][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.11.24-19.49.50:918][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.11.24-19.49.50:918][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.11.24-19.49.50:918][  0]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.49.50:918][  0]LogShaderCompilers: Display: Submitted 84 shader compile jobs with 'Low' priority
+[2022.11.24-19.49.50:919][  0]LogMaterial: Display: Missing cached shadermap for M_Pole in PCD3D_SM5, Default, SM5 (DDC key hash: D3D81A1693D51BAD37506228473F241B8B54F08B), compiling. 
+[2022.11.24-19.49.50:944][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.11.24-19.49.50:946][  0]LogMaterial: Display: Missing cached shadermap for M_Cloth in PCD3D_SM5, Default, SM5 (DDC key hash: 1BD3CEB357EC753919C9AA89F3A2505C6109D4CC), compiling. 
+[2022.11.24-19.49.51:014][  0]LogShaderCompilers: Display: Submitted 84 shader compile jobs with 'Low' priority
+[2022.11.24-19.49.51:015][  0]LogSkeletalMesh: Building Skeletal Mesh sk_banner...
+[2022.11.24-19.49.51:077][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 200
+[2022.11.24-19.49.51:077][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.49.51:085][  0]LogSkeletalMesh: Section 0: Material=0, 168 triangles
+[2022.11.24-19.49.51:085][  0]LogSkeletalMesh: Section 1: Material=1, 110 triangles
+[2022.11.24-19.49.51:303][  0]LogSkeletalMesh: Built Skeletal Mesh [0.29s] /Game/ThirdPersonBP/banner/sk_banner.sk_banner
+[2022.11.24-19.49.51:362][  0]LogMaterial: Display: Missing cached shadermap for M_Hyrule_Sheild in PCD3D_SM5, Default, SM5 (DDC key hash: BBF4F1B3A948443741A3CC6AA5F551C17581A8BC), compiling. 
+[2022.11.24-19.49.51:379][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.24-19.49.51:381][  0]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 936E3C21337F986B306A2DC1D65857DE2803E014), compiling. 
+[2022.11.24-19.49.51:395][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.24-19.49.51:396][  0]LogMaterial: Display: Missing cached shadermap for M_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 0FCA2F9953EBACB59502E20C6B38A92A574E39E6), compiling. 
+[2022.11.24-19.49.51:410][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.24-19.49.51:620][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/chest/open.open
+[2022.11.24-19.49.51:620][  0]LogMaterial: Display: Missing cached shadermap for M_Chest_High in PCD3D_SM5, Default, SM5 (DDC key hash: 434AAFA1BA1C6EFB1A1556DA762CDE3F311BA3DC), compiling. 
+[2022.11.24-19.49.51:647][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.11.24-19.49.51:647][  0]LogSkeletalMesh: Building Skeletal Mesh chest...
+[2022.11.24-19.49.51:692][  0]LogSkeletalMesh: Section 0: Material=0, 2051 triangles
+[2022.11.24-19.49.51:698][  0]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/chest/chest.chest
+[2022.11.24-19.49.51:699][  0]LogMaterial: Display: Missing cached shadermap for M_Logo in PCD3D_SM5, Default, SM5 (DDC key hash: 716ADD0D010785FF5069CC7877E34F183E4715E8), compiling. 
+[2022.11.24-19.49.51:713][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.24-19.49.52:104][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.11.24-19.49.52:104][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.11.24-19.49.52:489][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.24-19.49.52:548][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.11.24-19.49.52:553][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.24-19.49.52:553][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.421ms to complete.
+[2022.11.24-19.49.52:553][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 12.169
+[2022.11.24-19.49.52:556][  0]LogUnrealEdMisc: Total Editor Startup Time, took 24.751
+[2022.11.24-19.49.52:700][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-19.49.52:710][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-19.49.52:719][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-19.49.52:728][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-19.49.52:751][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0140 seconds. Added 3822 classes and 928 folders.
+[2022.11.24-19.49.52:755][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.11.24-19.49.52:758][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.24-19.49.52:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.24-19.49.52:758][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:758][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.11.24-19.49.52:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.11.24-19.49.52:760][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.24-19.49.52:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.24-19.49.52:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.11.24-19.49.52:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.11.24-19.49.52:761][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.11.24-19.49.52:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.11.24-19.49.52:761][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:761][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.11.24-19.49.52:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.24-19.49.52:762][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.24-19.49.52:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.24-19.49.52:762][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:762][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.11.24-19.49.52:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.11.24-19.49.52:763][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.24-19.49.52:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:764][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.24-19.49.52:764][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:764][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.11.24-19.49.52:764][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.24-19.49.52:765][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.24-19.49.52:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.24-19.49.52:765][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:765][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.11.24-19.49.52:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.24-19.49.52:766][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.24-19.49.52:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.24-19.49.52:766][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:766][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.11.24-19.49.52:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.24-19.49.52:767][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.24-19.49.52:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.24-19.49.52:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.11.24-19.49.52:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.24-19.49.52:768][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.24-19.49.52:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.24-19.49.52:769][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:769][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.11.24-19.49.52:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.24-19.49.52:770][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.24-19.49.52:770][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:770][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.24-19.49.52:770][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:770][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.11.24-19.49.52:770][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.11.24-19.49.52:771][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.24-19.49.52:771][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:771][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.24-19.49.52:772][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:772][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.11.24-19.49.52:772][  0]LogPakFile: OnPakFileMounted2Time == 0.000146
+[2022.11.24-19.49.52:773][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.24-19.49.52:773][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:773][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.24-19.49.52:773][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:773][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.11.24-19.49.52:773][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.11.24-19.49.52:775][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.24-19.49.52:775][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:775][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.24-19.49.52:775][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:775][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.11.24-19.49.52:775][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.11.24-19.49.52:776][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.24-19.49.52:776][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:776][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.24-19.49.52:776][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:776][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.11.24-19.49.52:776][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.24-19.49.52:777][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.24-19.49.52:777][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:777][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.24-19.49.52:778][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:778][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.11.24-19.49.52:778][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.11.24-19.49.52:779][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.24-19.49.52:779][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:779][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.24-19.49.52:779][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:779][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.11.24-19.49.52:779][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.11.24-19.49.52:780][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.24-19.49.52:780][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:780][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.24-19.49.52:780][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:780][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.11.24-19.49.52:780][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.24-19.49.52:781][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.24-19.49.52:781][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:781][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.24-19.49.52:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.11.24-19.49.52:781][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.11.24-19.49.52:783][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.24-19.49.52:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.24-19.49.52:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.11.24-19.49.52:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.11.24-19.49.52:784][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.24-19.49.52:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.24-19.49.52:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.11.24-19.49.52:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.24-19.49.52:785][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.24-19.49.52:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.24-19.49.52:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.11.24-19.49.52:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.24-19.49.52:787][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.24-19.49.52:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.24-19.49.52:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.11.24-19.49.52:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.24-19.49.52:788][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.11.24-19.49.52:788][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:788][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.11.24-19.49.52:788][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:788][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.11.24-19.49.52:788][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.24-19.49.52:789][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.24-19.49.52:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:789][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.24-19.49.52:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.11.24-19.49.52:789][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.11.24-19.49.52:791][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.24-19.49.52:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:791][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.24-19.49.52:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.11.24-19.49.52:791][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.11.24-19.49.52:792][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.24-19.49.52:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.24-19.49.52:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.24-19.49.52:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.24-19.49.52:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.11.24-19.49.52:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.11.24-19.49.52:903][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.11.24-19.49.52:905][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.11.24-19.49.53:030][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.11.24-19.49.53:030][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.11.24-19.49.53:030][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.11.24-19.49.53:030][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.11.24-19.49.53:030][  0]LogLoad: (Engine Initialization) Total time: 25.23 seconds
+[2022.11.24-19.49.53:030][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.24-19.49.53:085][  0]LogAssetRegistry: Asset discovery search completed in 18.1144 seconds
+[2022.11.24-19.49.53:093][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.11.24-19.49.53:094][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.24-19.49.53:103][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.24-19.49.53:104][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.24-19.49.53:105][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.24-19.49.53:327][  0]LogRenderer: Reallocating scene render targets to support 744x360 Format 10 NumSamples 1 (Frame:1).
+[2022.11.24-19.49.53:327][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.24-19.49.54:645][ 27]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2022.11.24-19.49.54:645][ 27]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.54:700][ 31]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 35
+[2022.11.24-19.49.54:700][ 31]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.54:806][ 39]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2022.11.24-19.49.54:806][ 39]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.55:015][ 54]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2022.11.24-19.49.55:015][ 54]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.55:055][ 57]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2022.11.24-19.49.55:055][ 57]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.55:097][ 60]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2022.11.24-19.49.55:097][ 60]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.55:242][ 71]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2022.11.24-19.49.55:242][ 71]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.55:321][ 72]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.11.24-19.49.55:321][ 72]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.56:318][136]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.11.24-19.49.56:319][136]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.56:508][154]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.11.24-19.49.56:508][154]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.56:537][157]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.11.24-19.49.56:537][157]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.56:619][161]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.11.24-19.49.56:619][161]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.57:256][162]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.11.24-19.49.57:256][162]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.57:256][162]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.11.24-19.49.57:256][162]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.57:256][162]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.11.24-19.49.57:256][162]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.57:290][163]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.11.24-19.49.57:290][163]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.11.24-19.49.57:290][163]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.24-19.49.57:490][185]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 217
+[2022.11.24-19.49.57:490][185]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.49.57:503][186]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 207
+[2022.11.24-19.49.57:503][186]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.49.57:606][194]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 197
+[2022.11.24-19.49.57:606][194]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 187
+[2022.11.24-19.49.57:606][194]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.49.57:640][198]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 177
+[2022.11.24-19.49.57:640][198]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.49.57:688][201]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 167
+[2022.11.24-19.49.57:688][201]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.49.57:870][220]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 157
+[2022.11.24-19.49.57:870][220]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.49.58:019][234]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 147
+[2022.11.24-19.49.58:019][234]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.01:386][487]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 137
+[2022.11.24-19.50.01:386][487]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.02:023][538]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 127
+[2022.11.24-19.50.02:023][538]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.02:224][561]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 117
+[2022.11.24-19.50.02:224][561]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.02:247][563]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 107
+[2022.11.24-19.50.02:247][563]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.03:377][675]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 97
+[2022.11.24-19.50.03:377][675]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.03:472][684]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 87
+[2022.11.24-19.50.03:472][684]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.03:734][713]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 77
+[2022.11.24-19.50.03:734][713]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.05:223][882]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 67
+[2022.11.24-19.50.05:223][882]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.06:130][959]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 58
+[2022.11.24-19.50.06:130][959]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.06:832][960]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 50
+[2022.11.24-19.50.06:832][960]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.06:832][960]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2022.11.24-19.50.06:832][960]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.06:840][960]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2022.11.24-19.50.06:978][960]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2022.11.24-19.50.06:978][960]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.07:006][960]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 32
+[2022.11.24-19.50.07:006][960]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.07:109][961]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2022.11.24-19.50.07:109][961]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.07:697][989]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2022.11.24-19.50.07:697][989]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.08:214][ 10]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2022.11.24-19.50.08:214][ 10]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.09:109][ 38]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2022.11.24-19.50.09:109][ 38]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.09:183][ 41]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.11.24-19.50.09:183][ 41]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.09:228][ 42]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2022.11.24-19.50.09:229][ 42]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.09:572][ 58]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.11.24-19.50.09:572][ 58]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.09:662][ 62]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.11.24-19.50.09:662][ 62]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.09:720][ 63]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.11.24-19.50.09:720][ 63]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.09:854][ 67]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.11.24-19.50.09:854][ 67]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.10:051][ 70]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.11.24-19.50.10:051][ 70]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.10:157][ 74]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.11.24-19.50.10:157][ 74]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.10:602][ 93]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.11.24-19.50.10:602][ 93]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.10:659][ 96]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.11.24-19.50.10:660][ 96]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.24-19.50.10:696][ 98]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2022.11.24-19.50.10:696][ 98]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.50.10:723][ 99]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2022.11.24-19.50.10:724][ 99]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.50.10:743][100]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2022.11.24-19.50.10:743][100]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.50.10:781][102]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2022.11.24-19.50.10:781][102]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.50.10:873][107]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2022.11.24-19.50.10:874][107]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.50.10:925][109]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2022.11.24-19.50.10:925][109]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.50.11:354][130]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2022.11.24-19.50.11:354][130]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.50.11:433][134]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2022.11.24-19.50.11:433][134]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.50.11:450][135]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2022.11.24-19.50.11:450][135]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.50.11:732][148]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.11.24-19.50.11:732][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.50.11:940][158]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.11.24-19.50.11:940][158]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.50.12:122][167]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.11.24-19.50.12:122][167]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.50.12:249][173]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.11.24-19.50.12:250][173]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.24-19.50.12:339][177]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.11.24-19.50.12:339][177]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
